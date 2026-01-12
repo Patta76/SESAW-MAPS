@@ -1585,9 +1585,9 @@ Bagnara di Romagna;Solarolo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Brisighella;Casola Valsenio;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Brisighella;Faenza;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Brisighella;Riolo Terme;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
-Brisighella;Castrocaro Terme e Terra del Sole;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Brisighella;Forl;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Brisighella;Modigliana;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Brisighella;Castrocaro Terme e Terra del Sole;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Brisighella;ForlÂ;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Brisighella;Modigliana;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Brisighella;Marradi;Ravenna;Emilia-Romagna;Firenze;Toscana
 Brisighella;Palazzuolo sul Senio;Ravenna;Emilia-Romagna;Firenze;Toscana
 Casola Valsenio;Borgo Tossignano;Ravenna;Emilia-Romagna;Bologna;Emilia-Romagna
@@ -1601,8 +1601,8 @@ Castel Bolognese;Faenza;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Castel Bolognese;Riolo Terme;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Castel Bolognese;Solarolo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Cervia;Ravenna;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
-Cervia;Cesena;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cervia;Cesenatico;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Cervia;Cesena;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cervia;Cesenatico;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Conselice;Imola;Ravenna;Emilia-Romagna;Bologna;Emilia-Romagna
 Conselice;Argenta;Ravenna;Emilia-Romagna;Ferrara;Emilia-Romagna
 Conselice;Alfonsine;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
@@ -1620,7 +1620,7 @@ Faenza;Cotignola;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Faenza;Riolo Terme;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Faenza;Russi;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Faenza;Solarolo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
-Faenza;Forl;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Faenza;ForlÂ;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Fusignano;Alfonsine;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Fusignano;Bagnacavallo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Fusignano;Lugo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
@@ -1644,9 +1644,9 @@ Ravenna;Alfonsine;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Ravenna;Bagnacavallo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Ravenna;Cervia;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Ravenna;Russi;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
-Ravenna;Bertinoro;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Ravenna;Cesena;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Ravenna;Forl;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Ravenna;Bertinoro;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Ravenna;Cesena;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Ravenna;ForlÂ;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Riolo Terme;Borgo Tossignano;Ravenna;Emilia-Romagna;Bologna;Emilia-Romagna
 Riolo Terme;Imola;Ravenna;Emilia-Romagna;Bologna;Emilia-Romagna
 Riolo Terme;Brisighella;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
@@ -1656,7 +1656,7 @@ Riolo Terme;Faenza;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Russi;Bagnacavallo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Russi;Faenza;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Russi;Ravenna;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
-Russi;Forl;Ravenna;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Russi;ForlÂ;Ravenna;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Sant'Agata sul Santerno;Lugo;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Sant'Agata sul Santerno;Massa Lombarda;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Solarolo;Imola;Ravenna;Emilia-Romagna;Bologna;Emilia-Romagna
@@ -1664,183 +1664,183 @@ Solarolo;Bagnara di Romagna;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Solarolo;Castel Bolognese;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Solarolo;Cotignola;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
 Solarolo;Faenza;Ravenna;Emilia-Romagna;Ravenna;Emilia-Romagna
-Bagno di Romagna;Mercato Saraceno;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Bagno di Romagna;Santa Sofia;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Bagno di Romagna;Sarsina;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Bagno di Romagna;Verghereto;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Bagno di Romagna;Bibbiena;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Bagno di Romagna;Chiusi della Verna;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Bagno di Romagna;Poppi;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Bagno di Romagna;Pratovecchio Stia;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Bertinoro;Ravenna;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Bertinoro;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Bertinoro;Forl;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Bertinoro;Forlimpopoli;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Bertinoro;Meldola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Borghi;Longiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Borghi;Roncofreddo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Borghi;Sogliano al Rubicone;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Borghi;Poggio Torriana;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Borghi;Santarcangelo di Romagna;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Castrocaro Terme e Terra del Sole;Brisighella;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Castrocaro Terme e Terra del Sole;Dovadola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Castrocaro Terme e Terra del Sole;Forl;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Castrocaro Terme e Terra del Sole;Modigliana;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Castrocaro Terme e Terra del Sole;Predappio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Cervia;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Cesena;Ravenna;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Cesena;Bertinoro;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Cesenatico;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Civitella di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Gambettola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Longiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Meldola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Mercato Saraceno;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Montiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Roncofreddo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesena;Sarsina;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesenatico;Cervia;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Cesenatico;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesenatico;Gambettola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Cesenatico;Gatteo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Civitella di Romagna;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Civitella di Romagna;Galeata;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Civitella di Romagna;Meldola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Civitella di Romagna;Predappio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Civitella di Romagna;Santa Sofia;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Civitella di Romagna;Sarsina;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Dovadola;Castrocaro Terme e Terra del Sole;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Dovadola;Modigliana;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Dovadola;Predappio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Dovadola;Rocca San Casciano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Forl;Brisighella;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Forl;Faenza;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Forl;Ravenna;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Forl;Russi;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Forl;Bertinoro;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Forl;Castrocaro Terme e Terra del Sole;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Forl;Forlimpopoli;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Forl;Meldola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Forl;Predappio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Forlimpopoli;Bertinoro;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Forlimpopoli;Forl;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Galeata;Civitella di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Galeata;Predappio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Galeata;Premilcuore;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Galeata;Rocca San Casciano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Galeata;Santa Sofia;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gambettola;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gambettola;Cesenatico;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gambettola;Gatteo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gambettola;Longiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gatteo;Cesenatico;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gatteo;Gambettola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gatteo;Longiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Gatteo;Savignano sul Rubicone;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Borghi;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Gambettola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Gatteo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Montiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Roncofreddo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Savignano sul Rubicone;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Longiano;Santarcangelo di Romagna;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Meldola;Bertinoro;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Meldola;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Meldola;Civitella di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Meldola;Forl;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Meldola;Predappio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Mercato Saraceno;Bagno di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Mercato Saraceno;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Mercato Saraceno;Roncofreddo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Mercato Saraceno;Sarsina;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Mercato Saraceno;Sogliano al Rubicone;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Mercato Saraceno;Novafeltria;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Mercato Saraceno;Talamello;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Modigliana;Brisighella;Forl-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
-Modigliana;Castrocaro Terme e Terra del Sole;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Modigliana;Dovadola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Modigliana;Rocca San Casciano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Modigliana;Tredozio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Modigliana;Marradi;Forl-Cesena;Emilia-Romagna;Firenze;Toscana
-Montiano;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Montiano;Longiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Montiano;Roncofreddo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Portico e San Benedetto;Premilcuore;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Portico e San Benedetto;Rocca San Casciano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Portico e San Benedetto;Tredozio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Portico e San Benedetto;Marradi;Forl-Cesena;Emilia-Romagna;Firenze;Toscana
-Portico e San Benedetto;San Godenzo;Forl-Cesena;Emilia-Romagna;Firenze;Toscana
-Predappio;Castrocaro Terme e Terra del Sole;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Predappio;Civitella di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Predappio;Dovadola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Predappio;Forl;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Predappio;Galeata;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Predappio;Meldola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Predappio;Rocca San Casciano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Premilcuore;Galeata;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Premilcuore;Portico e San Benedetto;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Premilcuore;Rocca San Casciano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Premilcuore;Santa Sofia;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Premilcuore;San Godenzo;Forl-Cesena;Emilia-Romagna;Firenze;Toscana
-Rocca San Casciano;Dovadola;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Rocca San Casciano;Galeata;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Rocca San Casciano;Modigliana;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Rocca San Casciano;Portico e San Benedetto;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Rocca San Casciano;Predappio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Rocca San Casciano;Premilcuore;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Rocca San Casciano;Tredozio;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Roncofreddo;Borghi;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Roncofreddo;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Roncofreddo;Longiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Roncofreddo;Mercato Saraceno;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Roncofreddo;Montiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Roncofreddo;Sogliano al Rubicone;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-San Mauro Pascoli;Savignano sul Rubicone;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-San Mauro Pascoli;Bellaria-Igea Marina;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-San Mauro Pascoli;Rimini;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-San Mauro Pascoli;Santarcangelo di Romagna;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Santa Sofia;Bagno di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santa Sofia;Civitella di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santa Sofia;Galeata;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santa Sofia;Premilcuore;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santa Sofia;Sarsina;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santa Sofia;San Godenzo;Forl-Cesena;Emilia-Romagna;Firenze;Toscana
-Santa Sofia;Pratovecchio Stia;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Sarsina;Bagno di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sarsina;Cesena;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sarsina;Civitella di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sarsina;Mercato Saraceno;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sarsina;Santa Sofia;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sarsina;Sogliano al Rubicone;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sarsina;Verghereto;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sarsina;Sant'Agata Feltria;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Savignano sul Rubicone;Gatteo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Savignano sul Rubicone;Longiano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Savignano sul Rubicone;San Mauro Pascoli;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Savignano sul Rubicone;Santarcangelo di Romagna;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Sogliano al Rubicone;Borghi;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sogliano al Rubicone;Mercato Saraceno;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sogliano al Rubicone;Roncofreddo;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sogliano al Rubicone;Sarsina;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sogliano al Rubicone;Novafeltria;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Sogliano al Rubicone;Poggio Torriana;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Sogliano al Rubicone;Sant'Agata Feltria;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Sogliano al Rubicone;Talamello;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Tredozio;Modigliana;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Tredozio;Portico e San Benedetto;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Tredozio;Rocca San Casciano;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Tredozio;Marradi;Forl-Cesena;Emilia-Romagna;Firenze;Toscana
-Verghereto;Bagno di Romagna;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Verghereto;Sarsina;Forl-Cesena;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Verghereto;Casteldelci;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Verghereto;Sant'Agata Feltria;Forl-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
-Verghereto;Badia Tedalda;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Verghereto;Chiusi della Verna;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Verghereto;Pieve Santo Stefano;Forl-Cesena;Emilia-Romagna;Arezzo;Toscana
-Bellaria-Igea Marina;San Mauro Pascoli;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Bagno di Romagna;Mercato Saraceno;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Bagno di Romagna;Santa Sofia;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Bagno di Romagna;Sarsina;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Bagno di Romagna;Verghereto;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Bagno di Romagna;Bibbiena;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Bagno di Romagna;Chiusi della Verna;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Bagno di Romagna;Poppi;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Bagno di Romagna;Pratovecchio Stia;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Bertinoro;Ravenna;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+Bertinoro;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Bertinoro;ForlÂ;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Bertinoro;Forlimpopoli;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Bertinoro;Meldola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Borghi;Longiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Borghi;Roncofreddo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Borghi;Sogliano al Rubicone;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Borghi;Poggio Torriana;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Borghi;Santarcangelo di Romagna;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Castrocaro Terme e Terra del Sole;Brisighella;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+Castrocaro Terme e Terra del Sole;Dovadola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Castrocaro Terme e Terra del Sole;ForlÂ;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Castrocaro Terme e Terra del Sole;Modigliana;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Castrocaro Terme e Terra del Sole;Predappio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Cervia;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+Cesena;Ravenna;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+Cesena;Bertinoro;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Cesenatico;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Civitella di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Gambettola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Longiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Meldola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Mercato Saraceno;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Montiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Roncofreddo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesena;Sarsina;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesenatico;Cervia;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+Cesenatico;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesenatico;Gambettola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Cesenatico;Gatteo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Civitella di Romagna;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Civitella di Romagna;Galeata;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Civitella di Romagna;Meldola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Civitella di Romagna;Predappio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Civitella di Romagna;Santa Sofia;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Civitella di Romagna;Sarsina;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Dovadola;Castrocaro Terme e Terra del Sole;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Dovadola;Modigliana;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Dovadola;Predappio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Dovadola;Rocca San Casciano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+ForlÂ;Brisighella;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+ForlÂ;Faenza;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+ForlÂ;Ravenna;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+ForlÂ;Russi;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+ForlÂ;Bertinoro;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+ForlÂ;Castrocaro Terme e Terra del Sole;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+ForlÂ;Forlimpopoli;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+ForlÂ;Meldola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+ForlÂ;Predappio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Forlimpopoli;Bertinoro;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Forlimpopoli;ForlÂ;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Galeata;Civitella di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Galeata;Predappio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Galeata;Premilcuore;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Galeata;Rocca San Casciano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Galeata;Santa Sofia;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gambettola;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gambettola;Cesenatico;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gambettola;Gatteo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gambettola;Longiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gatteo;Cesenatico;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gatteo;Gambettola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gatteo;Longiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Gatteo;Savignano sul Rubicone;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Borghi;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Gambettola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Gatteo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Montiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Roncofreddo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Savignano sul Rubicone;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Longiano;Santarcangelo di Romagna;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Meldola;Bertinoro;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Meldola;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Meldola;Civitella di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Meldola;ForlÂ;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Meldola;Predappio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Mercato Saraceno;Bagno di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Mercato Saraceno;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Mercato Saraceno;Roncofreddo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Mercato Saraceno;Sarsina;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Mercato Saraceno;Sogliano al Rubicone;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Mercato Saraceno;Novafeltria;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Mercato Saraceno;Talamello;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Modigliana;Brisighella;ForlÂ-Cesena;Emilia-Romagna;Ravenna;Emilia-Romagna
+Modigliana;Castrocaro Terme e Terra del Sole;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Modigliana;Dovadola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Modigliana;Rocca San Casciano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Modigliana;Tredozio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Modigliana;Marradi;ForlÂ-Cesena;Emilia-Romagna;Firenze;Toscana
+Montiano;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Montiano;Longiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Montiano;Roncofreddo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Portico e San Benedetto;Premilcuore;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Portico e San Benedetto;Rocca San Casciano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Portico e San Benedetto;Tredozio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Portico e San Benedetto;Marradi;ForlÂ-Cesena;Emilia-Romagna;Firenze;Toscana
+Portico e San Benedetto;San Godenzo;ForlÂ-Cesena;Emilia-Romagna;Firenze;Toscana
+Predappio;Castrocaro Terme e Terra del Sole;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Predappio;Civitella di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Predappio;Dovadola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Predappio;ForlÂ;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Predappio;Galeata;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Predappio;Meldola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Predappio;Rocca San Casciano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Premilcuore;Galeata;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Premilcuore;Portico e San Benedetto;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Premilcuore;Rocca San Casciano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Premilcuore;Santa Sofia;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Premilcuore;San Godenzo;ForlÂ-Cesena;Emilia-Romagna;Firenze;Toscana
+Rocca San Casciano;Dovadola;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Rocca San Casciano;Galeata;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Rocca San Casciano;Modigliana;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Rocca San Casciano;Portico e San Benedetto;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Rocca San Casciano;Predappio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Rocca San Casciano;Premilcuore;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Rocca San Casciano;Tredozio;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Roncofreddo;Borghi;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Roncofreddo;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Roncofreddo;Longiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Roncofreddo;Mercato Saraceno;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Roncofreddo;Montiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Roncofreddo;Sogliano al Rubicone;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+San Mauro Pascoli;Savignano sul Rubicone;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+San Mauro Pascoli;Bellaria-Igea Marina;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+San Mauro Pascoli;Rimini;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+San Mauro Pascoli;Santarcangelo di Romagna;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Santa Sofia;Bagno di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santa Sofia;Civitella di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santa Sofia;Galeata;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santa Sofia;Premilcuore;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santa Sofia;Sarsina;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santa Sofia;San Godenzo;ForlÂ-Cesena;Emilia-Romagna;Firenze;Toscana
+Santa Sofia;Pratovecchio Stia;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Sarsina;Bagno di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sarsina;Cesena;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sarsina;Civitella di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sarsina;Mercato Saraceno;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sarsina;Santa Sofia;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sarsina;Sogliano al Rubicone;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sarsina;Verghereto;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sarsina;Sant'Agata Feltria;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Savignano sul Rubicone;Gatteo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Savignano sul Rubicone;Longiano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Savignano sul Rubicone;San Mauro Pascoli;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Savignano sul Rubicone;Santarcangelo di Romagna;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Sogliano al Rubicone;Borghi;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sogliano al Rubicone;Mercato Saraceno;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sogliano al Rubicone;Roncofreddo;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sogliano al Rubicone;Sarsina;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sogliano al Rubicone;Novafeltria;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Sogliano al Rubicone;Poggio Torriana;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Sogliano al Rubicone;Sant'Agata Feltria;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Sogliano al Rubicone;Talamello;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Tredozio;Modigliana;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Tredozio;Portico e San Benedetto;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Tredozio;Rocca San Casciano;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Tredozio;Marradi;ForlÂ-Cesena;Emilia-Romagna;Firenze;Toscana
+Verghereto;Bagno di Romagna;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Verghereto;Sarsina;ForlÂ-Cesena;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Verghereto;Casteldelci;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Verghereto;Sant'Agata Feltria;ForlÂ-Cesena;Emilia-Romagna;Rimini;Emilia-Romagna
+Verghereto;Badia Tedalda;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Verghereto;Chiusi della Verna;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Verghereto;Pieve Santo Stefano;ForlÂ-Cesena;Emilia-Romagna;Arezzo;Toscana
+Bellaria-Igea Marina;San Mauro Pascoli;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Bellaria-Igea Marina;Rimini;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
-Casteldelci;Verghereto;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Casteldelci;Verghereto;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Casteldelci;Pennabilli;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Casteldelci;Sant'Agata Feltria;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Casteldelci;Badia Tedalda;Rimini;Emilia-Romagna;Arezzo;Toscana
@@ -1904,8 +1904,8 @@ Morciano di Romagna;Montefiore Conca;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Morciano di Romagna;Saludecio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Morciano di Romagna;San Clemente;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Morciano di Romagna;San Giovanni in Marignano;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
-Novafeltria;Mercato Saraceno;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Novafeltria;Sogliano al Rubicone;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Novafeltria;Mercato Saraceno;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Novafeltria;Sogliano al Rubicone;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Novafeltria;Maiolo;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Novafeltria;Pennabilli;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Novafeltria;Poggio Torriana;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
@@ -1920,8 +1920,8 @@ Pennabilli;Sant'Agata Feltria;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Pennabilli;Badia Tedalda;Rimini;Emilia-Romagna;Arezzo;Toscana
 Pennabilli;Sestino;Rimini;Emilia-Romagna;Arezzo;Toscana
 Pennabilli;Carpegna;Rimini;Emilia-Romagna;Pesaro e Urbino;Marche
-Poggio Torriana;Borghi;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Poggio Torriana;Sogliano al Rubicone;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Poggio Torriana;Borghi;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Poggio Torriana;Sogliano al Rubicone;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Poggio Torriana;Novafeltria;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Poggio Torriana;San Leo;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Poggio Torriana;Santarcangelo di Romagna;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
@@ -1929,7 +1929,7 @@ Poggio Torriana;Verucchio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Riccione;Coriano;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Riccione;Misano Adriatico;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Riccione;Rimini;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
-Rimini;San Mauro Pascoli;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Rimini;San Mauro Pascoli;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Rimini;Bellaria-Igea Marina;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Rimini;Coriano;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Rimini;Riccione;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
@@ -1963,17 +1963,17 @@ San Leo;Poggio Torriana;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 San Leo;Sassofeltrio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 San Leo;Verucchio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 San Leo;Monte Grimano Terme;Rimini;Emilia-Romagna;Pesaro e Urbino;Marche
-Sant'Agata Feltria;Sarsina;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sant'Agata Feltria;Sogliano al Rubicone;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Sant'Agata Feltria;Verghereto;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Sant'Agata Feltria;Sarsina;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sant'Agata Feltria;Sogliano al Rubicone;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Sant'Agata Feltria;Verghereto;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Sant'Agata Feltria;Casteldelci;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Sant'Agata Feltria;Novafeltria;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Sant'Agata Feltria;Pennabilli;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Sant'Agata Feltria;Badia Tedalda;Rimini;Emilia-Romagna;Arezzo;Toscana
-Santarcangelo di Romagna;Borghi;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santarcangelo di Romagna;Longiano;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santarcangelo di Romagna;San Mauro Pascoli;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Santarcangelo di Romagna;Savignano sul Rubicone;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Santarcangelo di Romagna;Borghi;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santarcangelo di Romagna;Longiano;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santarcangelo di Romagna;San Mauro Pascoli;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Santarcangelo di Romagna;Savignano sul Rubicone;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Santarcangelo di Romagna;Poggio Torriana;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Santarcangelo di Romagna;Rimini;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Santarcangelo di Romagna;Verucchio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
@@ -1983,8 +1983,8 @@ Sassofeltrio;San Leo;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Sassofeltrio;Verucchio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Sassofeltrio;Mercatino Conca;Rimini;Emilia-Romagna;Pesaro e Urbino;Marche
 Sassofeltrio;Monte Grimano Terme;Rimini;Emilia-Romagna;Pesaro e Urbino;Marche
-Talamello;Mercato Saraceno;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Talamello;Sogliano al Rubicone;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Talamello;Mercato Saraceno;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Talamello;Sogliano al Rubicone;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Talamello;Maiolo;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Talamello;Novafeltria;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Verucchio;Poggio Torriana;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
@@ -2163,12 +2163,12 @@ Montescudo;Coriano;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Montescudo;Gemmano;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Montescudo;Monte Colombo;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Montescudo;Sassofeltrio;Rimini;Emilia-Romagna;Pesaro e Urbino;Marche
-Poggio Berni;Borghi;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Poggio Berni;Borghi;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Poggio Berni;Santarcangelo di Romagna;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Poggio Berni;Torriana;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Poggio Berni;Verucchio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
-Torriana;Borghi;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
-Torriana;Sogliano al Rubicone;Rimini;Emilia-Romagna;Forl-Cesena;Emilia-Romagna
+Torriana;Borghi;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
+Torriana;Sogliano al Rubicone;Rimini;Emilia-Romagna;ForlÂ-Cesena;Emilia-Romagna
 Torriana;Poggio Berni;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Torriana;Verucchio;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
 Torriana;Novafeltria;Rimini;Emilia-Romagna;Rimini;Emilia-Romagna
